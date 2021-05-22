@@ -1,0 +1,3 @@
+[submodule "systemrescue-sources"]
+	path = systemrescue-sources
+	url = https://gitlab.com/m000/systemrescue-sources.git
