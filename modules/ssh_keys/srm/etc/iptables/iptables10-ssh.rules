@@ -1,0 +1,3 @@
+*filter
+-I INPUT 4 -p tcp --dport 22 -j ACCEPT
+COMMIT
